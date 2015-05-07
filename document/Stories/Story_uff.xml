@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="8.0">
+	<Story Self="uff" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" OTFContextualAlternate="false">
+				<Content>Elia voluptae re, quatur antium non escitas dipiet maio. Ignat quam, cus rem aceped moluptam, consequam dolupta quassit vitatemo exerum quodios digeniscient ate lacium soluptatius eum ipid ent landere hendel et, tem volupta non nimusantiam voluptin nonsequ iatquibus pere odiaspe sam aut qui seria pa derita autae aut unt, corro dolorita vent omniet aliquatem etur sitenihitat eatecae pori corepel eicienis veritiust volentis minciisquae pel ilibuscia ipsam fugitia derem andit es volorum quisque nessecearum cum quasit et, voloreprat et facerum in raepudite magnis in num et ut etur ratis cum, omnim re pres elictat autatius, conem utatur, ut et doloreius.</Content>
+				<Br />
+				<Content>Aquatur simpore verferibus.</Content>
+				<Br />
+				<Content>At apedi quame late nim del idis ne dolorit, nes incienti dem eum et etur autem rectis dunt occatio nsequunt fugit ut ea esed que volorem porisserum ent, aut as alitas simolor iorrupt assunt.</Content>
+				<Br />
+				<Content>Nihilicabo. Luptas sumendis il inctem fugia qui accaborio omnia porem. Lent aut ut ut que derchit</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

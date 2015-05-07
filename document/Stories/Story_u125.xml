@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="8.0">
+	<Story Self="u125" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" OTFContextualAlternate="false">
+				<Content>Tem et quis descil molestr uptibusciis que accuptur? Quiaspit fugit volo beaquae exero quat aut et la soluptat ut moluptamus, occuptas aut destia conecea sit dolorunt et faccuptatem rat.</Content>
+				<Br />
+				<Content>Tet andunda eribus rem solut hicaepu dandia derovid quae venim etur? Qui commodi voluptate volorionsed quuntiunt ra volupta tincta nosti velit perum vellautemque conse sinvente mi, quias sum faccabo. Agnihilite parum quas aut ullandi taturera quibusdam et fuga. Nem alisimus commoluptae latem que con rehenim ossequos et fuga. Poriorat atinull orersperibus aut omnis in coreni qui odiscie ntionse ctotatem recepre mporest istecus as excerib usanis aut mil mossit que mincipsum voloris ex est, sim is acium quidus.</Content>
+				<Br />
+				<Content>Ipsanditiis nulpa dolendanihil ipic tes et hicatur, offictiossin rehente pernatiusda dipsae etur autesto mi, quas utasitatus aut la sit mi, coria quasime et eumquatet venimet quam quis et rem dere laudi discipsunt arum explant vellignatur, si sequiae possedit, ut plaut quia volorumquas modita serum</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>
