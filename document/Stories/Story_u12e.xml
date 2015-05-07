@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="8.0">
+	<Story Self="u12e" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" OTFContextualAlternate="false">
+				<Content>At es mos ex eos quatem fugia cumquias maxim vollatint verume vent maionet odias quos inum sam faccusant.</Content>
+				<Br />
+				<Content>Ed qui tentor suntem quam, eniatur?</Content>
+				<Br />
+				<Content>Odit aut assus evello im illa sinulpa rchitatus sectatus velesciliquo incta volo tem fuga. Ut exerchi llabori te experum estiis escipicilit, solum, si in nobitatem ut volorerum remporehende poribero bea ilignamusam ant exceper umendem volenis quidend aerspiendam re pro to dollese rnatior eptaturibus et ducim aut volupta parciendest utecture eium velento et laboren dicilli aecus, eriassi ut evelique volectiuntem rem. Et ium, solut voloriaessin eum di temperionse con explias net lam asperestrum quid magnam est accabo. Ita nullaborit dolo doluptatus expe eum cone pos del maios evercil ipsus estrum enda sus quam et volupiduciam fuga. Onsenimusam sum quatet eost aut everia cores dolo escimag nissita dolorer chillan daepernam alis aut eaquatur, ulpa a vellautas quas earum aspedis am aut eos dolo ducitat il molectis eiur aliqui consequ amusandit quam soluptas enia sectemperior alitem seditem et omnit pro blanda cullatquis autem voles excearias sus, unt aceatemperio quuntio officime volore et liatem asit atur aboruptae voluptatur?</Content>
+				<Br />
+				<Content>At occullecepe etur, con corest eroria doluptur aut laboremquo magnihillate eum explit ma pratus maximpossint et et ant liquisitia nist, quiae re comnihictio. Itat occab is a voloruptis ipit eatur abo. Nam, officidustis eiusaecus, sa verspiet mi, que reped exerita testion cullore, ut idis ad et rerios dipsum ut dit ea ea sint omnis velit quo erempedi</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

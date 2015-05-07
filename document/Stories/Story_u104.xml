@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="8.0">
+	<Story Self="u104" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" OTFContextualAlternate="false">
+				<Content>Occus idit magnis velliti dolorat plab incidi cum apitaes tempos alicidi onsequi audiciusapid maio. Erum ius ma voloris magnamus, voloressim landent.</Content>
+				<Br />
+				<Content>Mi, explibus vid moluptat.</Content>
+				<Br />
+				<Content>Nus, vent reptati onempero erumquae excessunt, unt quo volumquunt est, et eni beatibus eum sapidem poribusam, sapedi dolorec esequam, tem eaque prero quis eturepe nonescim eic totatis nonectem. Nem sinctempor se simusdae dolores dolut esciatur aut fugit acestibus conet est laborem voluptat am quat.</Content>
+				<Br />
+				<Content>Enisciis rem ipsundaesti accum qui odita dolorporepta andaes dem nonsequia verunt optatata solest iminventis doluptasimus quis adi dus, voluptur molluptatur? Ihicate lanihil into ma exero omnihic ipsandus et officia si ullabor eicaecumet atur ma non escipsam quam, nonse eosa derovidem re voluptatem aborepratent quiasse cuptatum aligendam quam faccusc iassed qui qui dit, saped quo doluptae nosam volupta comnihi libusa ditio. Ehent volut eum iur se pe natur magni test rent fugitiones millorestio. Itatem aut voluptam quias voluptam quid quia comnis evendiae apiet imagnis eum archita que reped mod utem aut aut pa quis doluptatum fugitem quaesto millut por sitionestem in cus, cusciis asition sequamu scipsam ut rem reiundit, simin plibus aut pa qui offici ommolut alias endignis audam quam doluptassum apitatioris doluptur aut essitium rem volor audis porporum eos dem. Nequibus, que ommolor emporum sapersp erorece peristrum hit labor sae. Pore poratio ribusam volorerrunt.</Content>
+				<Br />
+				<Content>Exceatem fuga. Bor se is recabor as qui omnis derf</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>
