@@ -1,0 +1,4 @@
+# No InDesign binary files
+*.indd
+# No InDesign autosaves
+*.idlk
